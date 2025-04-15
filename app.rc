@@ -1,0 +1,6 @@
+fn conf_enable_searching {
+    enable_searching=yes
+    conf_enable_app search
+        ll_add handlers_bar_left tpl_handler apps/search/sbar.tpl
+}
+
