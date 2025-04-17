@@ -11,3 +11,7 @@ tank is a small Go program that uses ripgrep, to compile run
 `go build -o tank tank.go`
 
 Place in /lib/plan9/bin or your bin dir. that werc sources
+
+<hr>
+
+See, <https://github.com/risingThumb/search/> for a shell-only approach
